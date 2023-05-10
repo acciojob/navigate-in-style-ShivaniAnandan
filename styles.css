@@ -6,7 +6,6 @@
 }
 .nav-links{
 	display:flex;
-	justify-content:space-around;
 	margin-right:1rem;
 	list-style:none;
 }
